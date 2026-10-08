@@ -1,6 +1,6 @@
 # ⚡ QFlow — Autonomous QA Testing Agent
 
-> **Next-generation website testing.** QFlow is an autonomous agent that combines rigorous heuristic scanning with **Google Gemini Multimodal AI** to explore, interact, and perform visual quality assurance on any web application.
+> **Next-generation website testing.** QFlow is an autonomous agent that combines rigorous heuristic scanning with **Google Gemini Multimodal AI** to explore, interact, and perform visual quality assurance on any web application..
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6.svg)
 ![Playwright](https://img.shields.io/badge/Playwright-Test-45ba4b.svg)
